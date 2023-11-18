@@ -60,7 +60,7 @@
 					letter-spacing: 5px;
           animation:  typing 5s forwards;
           margin-left: 70px;
-          white-space: nowrap;
+          white-space: wrap;
         }
 				.skills {
           display: inline-flex;
@@ -79,7 +79,7 @@
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-          Hi Aliens!<br/>I'm Ahmed Safwat from the Earth, and i love Gailan tarek.
+          Hi Aliens!<br/>I'm Ahmed Safwat from the Earth,<br/> and i love Gailan tarek.
         </div>
         <div class="skills">
           <div class="skills_icon">
