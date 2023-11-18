@@ -22,15 +22,17 @@
         .quotes-vi {
           font-size: 18px;
         }
-        .trungquandev-signature {
+        .ahmed-signature {
           font-size: 16px;
         }
 			</style>
 
 			<div class="container">
-        <div class="quotes-eng">"Learning new everyday not the copy cat of yesterday!"</div>
-        <div class="quotes-vi">"Qua một ngày, chúng ta học thêm được gì mới? Hay trở thành bản sao của ngày hôm qua?"</div>
-        <div class="trungquandev-signature">-Trungquandev Official-</div>
+        <div class="quotes-eng">"Learning new every day, not the copycat of yesterday!"</div>
+	<div class="ahmed-signature">-Ahmed Safwat-</div>
+	<br/>
+        <div class="quotes-vi">"لَوْلا المَشَقّةُ سَادَ النّاسُ كُلُّهُمُ *** الجُودُ يُفْقِرُ وَالإقدامُ قَتّالُ"</div>
+        <div class="ahmed-signature">-المتنبي-</div>
       </div>
 		</div>
 	</foreignObject>
