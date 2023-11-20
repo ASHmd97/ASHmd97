@@ -71,9 +71,9 @@
   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="#" />
   </a>
-  <a href="#" target="blank">
+<!--   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="#" />
-  </a>
+  </a> -->
   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="#" />
   </a>
