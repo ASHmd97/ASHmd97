@@ -74,8 +74,8 @@
 <!--   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="#" />
   </a> -->
-  <a href="#" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="#" />
+  <a href="https://www.linkedin.com/in/ahmed-safwat-hmd/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Linkedin" />
   </a>
   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="#" />
