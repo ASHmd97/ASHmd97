@@ -74,29 +74,30 @@
 <!-- https://icons8.com -->
 <div align="center">
   
-  <a href="#" target="blank">
+<!-- <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="#" />
-  </a>
+  </a> -->
 <!--   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="#" />
   </a> -->
+<!--   <a href="#" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="#" />
+  </a> -->
+  
   <a href="https://www.linkedin.com/in/ahmed-safwat-hmd/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Linkedin" />
-  </a>
-  <a href="#" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="#" />
   </a>
   <a href="mailto:#" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="#" />
   </a>
 </div>
-
 <br>
-
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
+<div align=center>
 <a href="#" target="_blank">
   <img src="svg/my-quotes.svg" width="846" height="150" alt="ahmedev-official" />
 </a>
+</div>
 
