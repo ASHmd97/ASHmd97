@@ -36,6 +36,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Material Ui-282C34?logo=mui&logoColor=#007FFF" alt="Mui logo" title="Mui" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
@@ -50,6 +52,10 @@
 &nbsp; -->
 
 <br>
+<div align=center>
+<h5>A Software Engineer 💻 trying to learn new things everyday. Most of my tech experince is focused on all the technologies shown in the above, and I will be adding whatever I learn in the future into the stack 😄</h5>
+  </div>
+
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
