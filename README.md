@@ -53,7 +53,7 @@
 
 <br>
 <div align=center>
-<h5>A Software Engineer 💻 trying to learn new things everyday. Most of my tech experince is focused on all the technologies shown in the above, and I will be adding whatever I learn in the future into the stack 😄</h5>
+<h5>A Software Developer 💻 trying to learn new things everyday. Most of my tech experince is focused on all the technologies shown in the above, and I will be adding whatever I learn in the future into the stack 😄</h5>
   </div>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
